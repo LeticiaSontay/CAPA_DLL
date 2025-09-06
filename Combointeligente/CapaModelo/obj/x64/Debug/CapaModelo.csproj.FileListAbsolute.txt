@@ -1,0 +1,12 @@
+C:\Users\temporal\Desktop\Combointeligente\CapaModelo\bin\x64\Debug\CapaModelo.dll
+C:\Users\temporal\Desktop\Combointeligente\CapaModelo\bin\x64\Debug\CapaModelo.pdb
+C:\Users\temporal\Desktop\Combointeligente\CapaModelo\obj\x64\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\temporal\Desktop\Combointeligente\CapaModelo\obj\x64\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\temporal\Desktop\Combointeligente\CapaModelo\obj\x64\Debug\CapaModelo.dll
+C:\Users\temporal\Desktop\Combointeligente\CapaModelo\obj\x64\Debug\CapaModelo.pdb
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\CapaModelo\bin\x64\Debug\CapaModelo.dll
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\CapaModelo\bin\x64\Debug\CapaModelo.pdb
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\CapaModelo\obj\x64\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\CapaModelo\obj\x64\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\CapaModelo\obj\x64\Debug\CapaModelo.dll
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\CapaModelo\obj\x64\Debug\CapaModelo.pdb

@@ -1,0 +1,9 @@
+C:\Users\Carlo Barquero\source\repos\Combointeligente\Capacontrolador\bin\Debug\Capacontrolador.dll
+C:\Users\Carlo Barquero\source\repos\Combointeligente\Capacontrolador\bin\Debug\Capacontrolador.pdb
+C:\Users\Carlo Barquero\source\repos\Combointeligente\Capacontrolador\obj\Debug\Capacontrolador.csproj.AssemblyReference.cache
+C:\Users\Carlo Barquero\source\repos\Combointeligente\Capacontrolador\obj\Debug\Capacontrolador.csproj.CoreCompileInputs.cache
+C:\Users\Carlo Barquero\source\repos\Combointeligente\Capacontrolador\obj\Debug\Capacontrolador.dll
+C:\Users\Carlo Barquero\source\repos\Combointeligente\Capacontrolador\obj\Debug\Capacontrolador.pdb
+C:\Users\Carlo Barquero\source\repos\Combointeligente\Capacontrolador\bin\Debug\CapaModelo.dll
+C:\Users\Carlo Barquero\source\repos\Combointeligente\Capacontrolador\bin\Debug\CapaModelo.pdb
+C:\Users\Carlo Barquero\source\repos\Combointeligente\Capacontrolador\obj\Debug\Capacontrolador.csproj.CopyComplete

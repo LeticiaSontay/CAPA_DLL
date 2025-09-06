@@ -1,0 +1,16 @@
+C:\Users\Leticia\source\repos\ejecuciondll1\ejecuciondll1\bin\x64\Debug\ejecuciondll1.exe.config
+C:\Users\Leticia\source\repos\ejecuciondll1\ejecuciondll1\bin\x64\Debug\ejecuciondll1.exe
+C:\Users\Leticia\source\repos\ejecuciondll1\ejecuciondll1\bin\x64\Debug\ejecuciondll1.pdb
+C:\Users\Leticia\source\repos\ejecuciondll1\ejecuciondll1\bin\x64\Debug\CapaV.dll
+C:\Users\Leticia\source\repos\ejecuciondll1\ejecuciondll1\bin\x64\Debug\Capacontrolador.dll
+C:\Users\Leticia\source\repos\ejecuciondll1\ejecuciondll1\bin\x64\Debug\CapaModelo.dll
+C:\Users\Leticia\source\repos\ejecuciondll1\ejecuciondll1\bin\x64\Debug\CapaV.pdb
+C:\Users\Leticia\source\repos\ejecuciondll1\ejecuciondll1\bin\x64\Debug\Capacontrolador.pdb
+C:\Users\Leticia\source\repos\ejecuciondll1\ejecuciondll1\bin\x64\Debug\CapaModelo.pdb
+C:\Users\Leticia\source\repos\ejecuciondll1\ejecuciondll1\obj\x64\Debug\ejecuciondll1.Form1.resources
+C:\Users\Leticia\source\repos\ejecuciondll1\ejecuciondll1\obj\x64\Debug\ejecuciondll1.Properties.Resources.resources
+C:\Users\Leticia\source\repos\ejecuciondll1\ejecuciondll1\obj\x64\Debug\ejecuciondll1.csproj.GenerateResource.cache
+C:\Users\Leticia\source\repos\ejecuciondll1\ejecuciondll1\obj\x64\Debug\ejecuciondll1.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\source\repos\ejecuciondll1\ejecuciondll1\obj\x64\Debug\ejecuciondll1.csproj.CopyComplete
+C:\Users\Leticia\source\repos\ejecuciondll1\ejecuciondll1\obj\x64\Debug\ejecuciondll1.exe
+C:\Users\Leticia\source\repos\ejecuciondll1\ejecuciondll1\obj\x64\Debug\ejecuciondll1.pdb

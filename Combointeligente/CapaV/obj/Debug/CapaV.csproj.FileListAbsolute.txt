@@ -1,0 +1,13 @@
+C:\Users\Carlo Barquero\source\repos\Combointeligente\CapaV\bin\Debug\CapaV.dll
+C:\Users\Carlo Barquero\source\repos\Combointeligente\CapaV\bin\Debug\CapaV.pdb
+C:\Users\Carlo Barquero\source\repos\Combointeligente\CapaV\obj\Debug\CapaV.csproj.AssemblyReference.cache
+C:\Users\Carlo Barquero\source\repos\Combointeligente\CapaV\obj\Debug\CapaV.csproj.CoreCompileInputs.cache
+C:\Users\Carlo Barquero\source\repos\Combointeligente\CapaV\obj\Debug\CapaV.dll
+C:\Users\Carlo Barquero\source\repos\Combointeligente\CapaV\obj\Debug\CapaV.pdb
+C:\Users\Carlo Barquero\source\repos\Combointeligente\CapaV\bin\Debug\Capacontrolador.dll
+C:\Users\Carlo Barquero\source\repos\Combointeligente\CapaV\bin\Debug\Capacontrolador.pdb
+C:\Users\Carlo Barquero\source\repos\Combointeligente\CapaV\obj\Debug\CapaV.csproj.CopyComplete
+C:\Users\Carlo Barquero\source\repos\Combointeligente\CapaV\obj\Debug\CapaV.Combo.resources
+C:\Users\Carlo Barquero\source\repos\Combointeligente\CapaV\obj\Debug\CapaV.csproj.GenerateResource.cache
+C:\Users\Carlo Barquero\source\repos\Combointeligente\CapaV\bin\Debug\CapaModelo.dll
+C:\Users\Carlo Barquero\source\repos\Combointeligente\CapaV\bin\Debug\CapaModelo.pdb

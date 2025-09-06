@@ -1,0 +1,18 @@
+C:\Users\temporal\Desktop\Combointeligente\Capacontrolador\bin\x64\Debug\Capacontrolador.dll
+C:\Users\temporal\Desktop\Combointeligente\Capacontrolador\bin\x64\Debug\Capacontrolador.pdb
+C:\Users\temporal\Desktop\Combointeligente\Capacontrolador\bin\x64\Debug\CapaModelo.dll
+C:\Users\temporal\Desktop\Combointeligente\Capacontrolador\bin\x64\Debug\CapaModelo.pdb
+C:\Users\temporal\Desktop\Combointeligente\Capacontrolador\obj\x64\Debug\Capacontrolador.csproj.AssemblyReference.cache
+C:\Users\temporal\Desktop\Combointeligente\Capacontrolador\obj\x64\Debug\Capacontrolador.csproj.CoreCompileInputs.cache
+C:\Users\temporal\Desktop\Combointeligente\Capacontrolador\obj\x64\Debug\Capacontrolador.csproj.CopyComplete
+C:\Users\temporal\Desktop\Combointeligente\Capacontrolador\obj\x64\Debug\Capacontrolador.dll
+C:\Users\temporal\Desktop\Combointeligente\Capacontrolador\obj\x64\Debug\Capacontrolador.pdb
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\Capacontrolador\bin\x64\Debug\Capacontrolador.dll
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\Capacontrolador\bin\x64\Debug\Capacontrolador.pdb
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\Capacontrolador\bin\x64\Debug\CapaModelo.dll
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\Capacontrolador\bin\x64\Debug\CapaModelo.pdb
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\Capacontrolador\obj\x64\Debug\Capacontrolador.csproj.AssemblyReference.cache
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\Capacontrolador\obj\x64\Debug\Capacontrolador.csproj.CoreCompileInputs.cache
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\Capacontrolador\obj\x64\Debug\Capacontrolador.csproj.CopyComplete
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\Capacontrolador\obj\x64\Debug\Capacontrolador.dll
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\Capacontrolador\obj\x64\Debug\Capacontrolador.pdb

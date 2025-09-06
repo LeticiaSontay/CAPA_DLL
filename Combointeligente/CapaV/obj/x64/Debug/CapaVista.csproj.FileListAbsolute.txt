@@ -1,0 +1,26 @@
+C:\Users\temporal\Desktop\Combointeligente\CapaV\bin\x64\Debug\CapaV.dll
+C:\Users\temporal\Desktop\Combointeligente\CapaV\bin\x64\Debug\CapaV.pdb
+C:\Users\temporal\Desktop\Combointeligente\CapaV\bin\x64\Debug\Capacontrolador.dll
+C:\Users\temporal\Desktop\Combointeligente\CapaV\bin\x64\Debug\CapaModelo.dll
+C:\Users\temporal\Desktop\Combointeligente\CapaV\bin\x64\Debug\Capacontrolador.pdb
+C:\Users\temporal\Desktop\Combointeligente\CapaV\bin\x64\Debug\CapaModelo.pdb
+C:\Users\temporal\Desktop\Combointeligente\CapaV\obj\x64\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\temporal\Desktop\Combointeligente\CapaV\obj\x64\Debug\CapaV.Combo.resources
+C:\Users\temporal\Desktop\Combointeligente\CapaV\obj\x64\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\temporal\Desktop\Combointeligente\CapaV\obj\x64\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\temporal\Desktop\Combointeligente\CapaV\obj\x64\Debug\CapaVista.csproj.CopyComplete
+C:\Users\temporal\Desktop\Combointeligente\CapaV\obj\x64\Debug\CapaV.dll
+C:\Users\temporal\Desktop\Combointeligente\CapaV\obj\x64\Debug\CapaV.pdb
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\CapaV\bin\x64\Debug\CapaV.dll
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\CapaV\bin\x64\Debug\CapaV.pdb
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\CapaV\bin\x64\Debug\Capacontrolador.dll
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\CapaV\bin\x64\Debug\CapaModelo.dll
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\CapaV\bin\x64\Debug\Capacontrolador.pdb
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\CapaV\bin\x64\Debug\CapaModelo.pdb
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\CapaV\obj\x64\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\CapaV\obj\x64\Debug\CapaV.Combo.resources
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\CapaV\obj\x64\Debug\CapaVista.csproj.GenerateResource.cache
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\CapaV\obj\x64\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\CapaV\obj\x64\Debug\CapaVista.csproj.CopyComplete
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\CapaV\obj\x64\Debug\CapaV.dll
+C:\PRUEBA REPOSITORIO\capacitacion-dll\Combointeligente\CapaV\obj\x64\Debug\CapaV.pdb
